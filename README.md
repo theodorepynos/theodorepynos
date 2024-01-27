@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theodorepynos
 - 👀 I’m interested in ... water markets
-- 🌱 I’m currently learning ... solidity(ice) 
+- 🌱 I’m currently learning ... rust
 - 💞️ I’m looking to collaborate on ... any of the above.
-- 📫 How to reach me ... theodore.pynos@icloud.com, theodorepynos.com, linktr.ee/theodorepynos, theodore pynos by theodore pynos......
+- 📫 How to reach me ... 
 
 <!---
 theodorepynos/theodorepynos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
